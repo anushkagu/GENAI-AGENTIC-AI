@@ -3,9 +3,6 @@
 ## 📌 Overview
 **AutoML-Agent** is an agentic AI system that automates the end-to-end machine learning model development lifecycle — from data profiling to training and evaluation — using only a natural-language prompt. Instead of manually writing code for each stage of the ML pipeline, a user simply describes the objective (e.g., *"build a propensity model for credit card upsell"*) and provides a dataset, and the system autonomously handles the rest.
 
-This project was built during my Data Science internship at **Axis Bank**, where it was applied to build a **propensity model for credit card upsell**.
-
----
 
 ## ✨ Key Features
 - 🗣️ **Prompt-driven pipeline** — Users provide only an objective and a dataset (CSV or other formats); the system handles profiling, cleaning, feature engineering, training, and evaluation automatically.
@@ -57,6 +54,3 @@ The system is built as a multi-agent graph using **LangGraph**, where each node 
 
 ---
 
-## 👤 Author
-**Atharaw Patle**
-[🔗 LinkedIn](https://linkedin.com/in/atharw-patle) &nbsp;|&nbsp; [💻 GitHub](https://github.com/Atharw10)
